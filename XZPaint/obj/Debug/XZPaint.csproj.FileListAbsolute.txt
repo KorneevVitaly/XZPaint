@@ -1,0 +1,130 @@
+c:\users\виталий\documents\visual studio 2013\Projects\XZPaint\XZPaint\bin\Debug\XZPaint.exe.config
+c:\users\виталий\documents\visual studio 2013\Projects\XZPaint\XZPaint\bin\Debug\XZPaint.exe
+c:\users\виталий\documents\visual studio 2013\Projects\XZPaint\XZPaint\bin\Debug\XZPaint.pdb
+c:\users\виталий\documents\visual studio 2013\Projects\XZPaint\XZPaint\obj\Debug\XZPaint.csprojResolveAssemblyReference.cache
+c:\users\виталий\documents\visual studio 2013\Projects\XZPaint\XZPaint\obj\Debug\XZPaint.Form1.resources
+c:\users\виталий\documents\visual studio 2013\Projects\XZPaint\XZPaint\obj\Debug\XZPaint.Properties.Resources.resources
+c:\users\виталий\documents\visual studio 2013\Projects\XZPaint\XZPaint\obj\Debug\XZPaint.csproj.GenerateResource.Cache
+c:\users\виталий\documents\visual studio 2013\Projects\XZPaint\XZPaint\obj\Debug\XZPaint.exe
+c:\users\виталий\documents\visual studio 2013\Projects\XZPaint\XZPaint\obj\Debug\XZPaint.pdb
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_3\XZPaint\bin\Debug\XZPaint.exe.config
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_3\XZPaint\obj\Debug\XZPaint.exe
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_3\XZPaint\obj\Debug\XZPaint.pdb
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_3\XZPaint\bin\Debug\XZPaint.exe
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_3\XZPaint\bin\Debug\XZPaint.pdb
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_3\XZPaint\obj\Debug\XZPaint.csprojResolveAssemblyReference.cache
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_3\XZPaint\obj\Debug\XZPaint.Form1.resources
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_3\XZPaint\obj\Debug\XZPaint.Properties.Resources.resources
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_3\XZPaint\obj\Debug\XZPaint.csproj.GenerateResource.Cache
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_3\XZPaint\obj\Debug\XZPaint.BalanceForm.resources
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_3\XZPaint\obj\Debug\XZPaint.BrightnessForm.resources
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_4\XZPaint\bin\Debug\XZPaint.exe.config
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_4\XZPaint\obj\Debug\XZPaint.exe
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_4\XZPaint\obj\Debug\XZPaint.pdb
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_4\XZPaint\bin\Debug\XZPaint.exe
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_4\XZPaint\bin\Debug\XZPaint.pdb
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_4\XZPaint\obj\Debug\XZPaint.csprojResolveAssemblyReference.cache
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_4\XZPaint\obj\Debug\XZPaint.BalanceForm.resources
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_4\XZPaint\obj\Debug\XZPaint.BrightnessForm.resources
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_4\XZPaint\obj\Debug\XZPaint.Form1.resources
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_4\XZPaint\obj\Debug\XZPaint.Properties.Resources.resources
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_4\XZPaint\obj\Debug\XZPaint.csproj.GenerateResource.Cache
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_5\XZPaint\bin\Debug\XZPaint.exe.config
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_5\XZPaint\obj\Debug\XZPaint.exe
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_5\XZPaint\obj\Debug\XZPaint.pdb
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_5\XZPaint\bin\Debug\XZPaint.exe
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_5\XZPaint\bin\Debug\XZPaint.pdb
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_5\XZPaint\obj\Debug\XZPaint.csprojResolveAssemblyReference.cache
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_5\XZPaint\obj\Debug\XZPaint.BalanceForm.resources
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_5\XZPaint\obj\Debug\XZPaint.BrightnessForm.resources
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_5\XZPaint\obj\Debug\XZPaint.Form1.resources
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_5\XZPaint\obj\Debug\XZPaint.Properties.Resources.resources
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_5\XZPaint\obj\Debug\XZPaint.csproj.GenerateResource.Cache
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_5\XZPaint\obj\Debug\XZPaint.SizeForm.resources
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_6\XZPaint\bin\Debug\XZPaint.exe.config
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_6\XZPaint\obj\Debug\XZPaint.exe
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_6\XZPaint\obj\Debug\XZPaint.pdb
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_7\XZPaint\bin\Debug\XZPaint.exe.config
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_7\XZPaint\obj\Debug\XZPaint.exe
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_7\XZPaint\obj\Debug\XZPaint.pdb
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_7\XZPaint\bin\Debug\XZPaint.exe
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_7\XZPaint\bin\Debug\XZPaint.pdb
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_7\XZPaint\obj\Debug\XZPaint.csprojResolveAssemblyReference.cache
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_7\XZPaint\obj\Debug\XZPaint.BalanceForm.resources
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_7\XZPaint\obj\Debug\XZPaint.BrightnessForm.resources
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_7\XZPaint\obj\Debug\XZPaint.Form1.resources
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_7\XZPaint\obj\Debug\XZPaint.Properties.Resources.resources
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_7\XZPaint\obj\Debug\XZPaint.SizeForm.resources
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_7\XZPaint\obj\Debug\XZPaint.csproj.GenerateResource.Cache
+E:\Download\XZPaint_7_rarochka\XZPaint_7\XZPaint\bin\Debug\XZPaint.exe.config
+E:\Download\XZPaint_7_rarochka\XZPaint_7\XZPaint\obj\Debug\XZPaint.exe
+E:\Download\XZPaint_7_rarochka\XZPaint_7\XZPaint\obj\Debug\XZPaint.pdb
+E:\Download\XZPaint_7_rarochka\XZPaint_7\XZPaint\bin\Debug\XZPaint.exe
+E:\Download\XZPaint_7_rarochka\XZPaint_7\XZPaint\bin\Debug\XZPaint.pdb
+E:\Download\XZPaint_7_rarochka\XZPaint_7\XZPaint\obj\Debug\XZPaint.csprojResolveAssemblyReference.cache
+E:\Download\XZPaint_7_rarochka\XZPaint_7\XZPaint\obj\Debug\XZPaint.BalanceForm.resources
+E:\Download\XZPaint_7_rarochka\XZPaint_7\XZPaint\obj\Debug\XZPaint.BrightnessForm.resources
+E:\Download\XZPaint_7_rarochka\XZPaint_7\XZPaint\obj\Debug\XZPaint.Form1.resources
+E:\Download\XZPaint_7_rarochka\XZPaint_7\XZPaint\obj\Debug\XZPaint.Properties.Resources.resources
+E:\Download\XZPaint_7_rarochka\XZPaint_7\XZPaint\obj\Debug\XZPaint.SizeForm.resources
+E:\Download\XZPaint_7_rarochka\XZPaint_7\XZPaint\obj\Debug\XZPaint.csproj.GenerateResource.Cache
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_8\XZPaint_7\XZPaint\bin\Debug\XZPaint.exe.config
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_8\XZPaint_7\XZPaint\obj\Debug\XZPaint.exe
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_8\XZPaint_7\XZPaint\obj\Debug\XZPaint.pdb
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_8\XZPaint_7\XZPaint\bin\Debug\XZPaint.exe
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_8\XZPaint_7\XZPaint\bin\Debug\XZPaint.pdb
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_8\XZPaint_7\XZPaint\obj\Debug\XZPaint.csprojResolveAssemblyReference.cache
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_8\XZPaint_7\XZPaint\obj\Debug\XZPaint.BalanceForm.resources
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_8\XZPaint_7\XZPaint\obj\Debug\XZPaint.BrightnessForm.resources
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_8\XZPaint_7\XZPaint\obj\Debug\XZPaint.Form1.resources
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_8\XZPaint_7\XZPaint\obj\Debug\XZPaint.Properties.Resources.resources
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_8\XZPaint_7\XZPaint\obj\Debug\XZPaint.SizeForm.resources
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_8\XZPaint_7\XZPaint\obj\Debug\XZPaint.csproj.GenerateResource.Cache
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_9\XZPaint_7\XZPaint\bin\Debug\XZPaint.exe.config
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_9\XZPaint_7\XZPaint\obj\Debug\XZPaint.exe
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_9\XZPaint_7\XZPaint\obj\Debug\XZPaint.pdb
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_9\XZPaint_7\XZPaint\bin\Debug\XZPaint.exe
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_9\XZPaint_7\XZPaint\bin\Debug\XZPaint.pdb
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_9\XZPaint_7\XZPaint\obj\Debug\XZPaint.csprojResolveAssemblyReference.cache
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_9\XZPaint_7\XZPaint\obj\Debug\XZPaint.BalanceForm.resources
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_9\XZPaint_7\XZPaint\obj\Debug\XZPaint.BrightnessForm.resources
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_9\XZPaint_7\XZPaint\obj\Debug\XZPaint.Form1.resources
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_9\XZPaint_7\XZPaint\obj\Debug\XZPaint.Properties.Resources.resources
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_9\XZPaint_7\XZPaint\obj\Debug\XZPaint.SizeForm.resources
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_9\XZPaint_7\XZPaint\obj\Debug\XZPaint.csproj.GenerateResource.Cache
+c:\Users\Богдан\Downloads\Grafika\XZPaint_9\XZPaint_7\XZPaint\bin\Debug\XZPaint.exe.config
+c:\Users\Богдан\Downloads\Grafika\XZPaint_9\XZPaint_7\XZPaint\obj\Debug\XZPaint.exe
+c:\Users\Богдан\Downloads\Grafika\XZPaint_9\XZPaint_7\XZPaint\obj\Debug\XZPaint.pdb
+c:\Users\Богдан\Downloads\Grafika\XZPaint_9\XZPaint_7\XZPaint\bin\Debug\XZPaint.exe
+c:\Users\Богдан\Downloads\Grafika\XZPaint_9\XZPaint_7\XZPaint\bin\Debug\XZPaint.pdb
+c:\Users\Богдан\Downloads\Grafika\XZPaint_9\XZPaint_7\XZPaint\obj\Debug\XZPaint.csprojResolveAssemblyReference.cache
+c:\Users\Богдан\Downloads\Grafika\XZPaint_9\XZPaint_7\XZPaint\obj\Debug\XZPaint.BalanceForm.resources
+c:\Users\Богдан\Downloads\Grafika\XZPaint_9\XZPaint_7\XZPaint\obj\Debug\XZPaint.BrightnessForm.resources
+c:\Users\Богдан\Downloads\Grafika\XZPaint_9\XZPaint_7\XZPaint\obj\Debug\XZPaint.Form1.resources
+c:\Users\Богдан\Downloads\Grafika\XZPaint_9\XZPaint_7\XZPaint\obj\Debug\XZPaint.Properties.Resources.resources
+c:\Users\Богдан\Downloads\Grafika\XZPaint_9\XZPaint_7\XZPaint\obj\Debug\XZPaint.SizeForm.resources
+c:\Users\Богдан\Downloads\Grafika\XZPaint_9\XZPaint_7\XZPaint\obj\Debug\XZPaint.csproj.GenerateResource.Cache
+c:\Users\Богдан\Downloads\Grafika\XZPaint_9\XZPaint_10\XZPaint\bin\Debug\XZPaint.exe.config
+c:\Users\Богдан\Downloads\Grafika\XZPaint_9\XZPaint_10\XZPaint\obj\Debug\XZPaint.exe
+c:\Users\Богдан\Downloads\Grafika\XZPaint_9\XZPaint_10\XZPaint\obj\Debug\XZPaint.pdb
+c:\Users\Богдан\Downloads\Grafika\XZPaint_9\XZPaint_10\XZPaint\bin\Debug\XZPaint.exe
+c:\Users\Богдан\Downloads\Grafika\XZPaint_9\XZPaint_10\XZPaint\bin\Debug\XZPaint.pdb
+c:\Users\Богдан\Downloads\Grafika\XZPaint_9\XZPaint_10\XZPaint\obj\Debug\XZPaint.csprojResolveAssemblyReference.cache
+c:\Users\Богдан\Downloads\Grafika\XZPaint_9\XZPaint_10\XZPaint\obj\Debug\XZPaint.BalanceForm.resources
+c:\Users\Богдан\Downloads\Grafika\XZPaint_9\XZPaint_10\XZPaint\obj\Debug\XZPaint.BrightnessForm.resources
+c:\Users\Богдан\Downloads\Grafika\XZPaint_9\XZPaint_10\XZPaint\obj\Debug\XZPaint.Form1.resources
+c:\Users\Богдан\Downloads\Grafika\XZPaint_9\XZPaint_10\XZPaint\obj\Debug\XZPaint.Properties.Resources.resources
+c:\Users\Богдан\Downloads\Grafika\XZPaint_9\XZPaint_10\XZPaint\obj\Debug\XZPaint.SizeForm.resources
+c:\Users\Богдан\Downloads\Grafika\XZPaint_9\XZPaint_10\XZPaint\obj\Debug\XZPaint.csproj.GenerateResource.Cache
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_11\XZPaint\bin\Debug\XZPaint.exe.config
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_11\XZPaint\obj\Debug\XZPaint.exe
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_11\XZPaint\obj\Debug\XZPaint.pdb
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_11\XZPaint\bin\Debug\XZPaint.exe
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_11\XZPaint\bin\Debug\XZPaint.pdb
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_11\XZPaint\obj\Debug\XZPaint.csprojResolveAssemblyReference.cache
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_11\XZPaint\obj\Debug\XZPaint.BalanceForm.resources
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_11\XZPaint\obj\Debug\XZPaint.BrightnessForm.resources
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_11\XZPaint\obj\Debug\XZPaint.Form1.resources
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_11\XZPaint\obj\Debug\XZPaint.Properties.Resources.resources
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_11\XZPaint\obj\Debug\XZPaint.SizeForm.resources
+C:\Users\Виталий\Documents\Visual Studio 2013\Projects\XZPaint_11\XZPaint\obj\Debug\XZPaint.csproj.GenerateResource.Cache
